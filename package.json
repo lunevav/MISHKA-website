@@ -1,0 +1,26 @@
+{
+  "name": "mishka",
+  "version": "1.0.0",
+  "description": "HTML Layout Test 2",
+  "main": "project/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunevav/MISHKA-website.git"
+  },
+  "author": "Aleksandr Lunev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lunevav/MISHKA-website/issues"
+  },
+  "homepage": "https://github.com/lunevav/MISHKA-website#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.6.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
